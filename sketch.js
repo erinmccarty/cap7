@@ -43,7 +43,7 @@ function normalSelf(){
   //ME BLOB
   push();
   noStroke();
-  translate(-140, 0, 0);
+  translate(-240, 0, 0);
   scale(50);
   
     //rotateX(angle/4);
@@ -57,7 +57,7 @@ function normalSelf(){
   
   //SCAN 1
   push();
-  translate(-350, 0, 0);
+  translate(-450, 0, 0);
   ambientLight(255);
   scale(860);
   
@@ -76,7 +76,7 @@ function normalSelf(){
   
   //SCAN 2
   push();
-  translate(200, 0, 0);
+  translate(100, 0, 0);
   //ambientLight(255);
   scale(570);
 
@@ -116,7 +116,7 @@ function normalSelf(){
   
   //SCAN 3
   push();
-  translate(-100, 250, 0);
+  translate(-200, 250, 0);
   //ambientLight(255);
   scale(350);
 
@@ -139,7 +139,7 @@ function normalSelf(){
   
   //SCAN 4
   push();
-  translate(-100, -200, 0);
+  translate(-200, -200, 0);
   //ambientLight(255);
   scale(350);
 
@@ -163,7 +163,7 @@ function growSelf(){
   //ME BLOB
   push();
   noStroke();
-  translate(-300, 0, 0);
+  translate(-400, 0, 0);
   scale(150);
   
     //rotateX(angle/4);
@@ -178,7 +178,7 @@ function growSelf(){
   
   //SCAN 1
   push();
-  translate(-350, 0, 0);
+  translate(-450, 0, 0);
   ambientLight(255);
   scale(660);
   
@@ -197,7 +197,7 @@ function growSelf(){
   
   //SCAN 2
   push();
-  translate(200, 0, 0);
+  translate(100, 0, 0);
   //ambientLight(255);
   scale(370);
 
@@ -218,7 +218,7 @@ function growSelf(){
   
   //SCAN 3
   push();
-  translate(-200, 250, 0);
+  translate(-300, 250, 0);
   //ambientLight(255);
   scale(150);
 
@@ -241,7 +241,7 @@ function growSelf(){
   
   //SCAN 4
   push();
-  translate(-200, -200, 0);
+  translate(-300, -200, 0);
   //ambientLight(255);
   scale(150);
 
